@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a currently doing internship om Full Stack java developer.
+## I'm a currently doing an internship on Full Stack java developer in Destination Technologies.
 
 - 🔭 I’m currently working on Java Full Stack development projects  
 - 🌱 I’m currently learning Advanced Java, JavaScript, and modern frameworks  
